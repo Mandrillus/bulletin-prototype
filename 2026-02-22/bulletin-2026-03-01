@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>広島教会週報 2026年3月1日</title>
+
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+  line-height: 1.9;
+  margin: 0;
+  background: #f4f6f8;
+}
+
+header {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  padding: 25px;
+}
+
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+details {
+  margin: 15px 0;
+  padding: 10px;
+  background: #f2f2f2;
+  border-radius: 6px;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 10px 0;
+}
+
+.notice {
+  background: #fff8e1;
+  padding: 15px;
+  border-left: 5px solid #f4b400;
+  margin-top: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>広島教会週報</h1>
+<p>2026年3月1日（日）受難節第2主日（No.9）</p>
+</header>
+
+<main>
+
+
+/*<button onclick="readAloud()">🔊 週報を読み上げる</button>*/
+
+<h2>主日礼拝《朝礼拝》午前10時30分</h2>
+司式：長老 柴原布早子 / 奏楽：濱田紘平 / 配信担当：仲渡千宙、宇根治
+<p><strong>※以下の時、可能な方はお立ち下さい</strong><br>
+讃美歌・交読・主の祈り・信仰告白（使徒信条）・頌栄・祝祷・後奏
+</p>
+
+<details>
+<summary>礼拝順序を見る</summary>
+
+<dl>
+
+<dt>前奏</dt>
+<dd></dd>
+
+<dt>招詞（イザヤ書55章3節）<a href="https://www.bible.com/bible/3523/ISA.55.3">[en]</a></dd>
+</dt>
+<dd>
+耳を傾けて聞き、わたしのもとに来るがよい。<br>
+聞き従って、魂に命を得よ。<br>
+わたしはあなたたちととこしえの契約を結ぶ。<br>
+ダビデに約束した真実の慈しみのゆえに。
+</dd>
+
+<dt>讃美歌</dt>
+<dd>18（p.27）<a href="hymn21-018.html">[en]</a></dd>
+
+<dt>交読</dt>
+<dd>詩編71編1～8節（p.76）<a href="https://www.bible.com/ja/bible/3523/PSA.71.1.NRSVUE">[en]</a></dd>
+
+<dt>主の祈り</dt>
+<dd>93-5-A（p.148）<a href="lords-prayer.html">[en]</a></dd></dd>
+
+<dt>聖書</dt>
+<dd>ヨハネによる福音書9章13～23節（p.184）<a href="https://www.bible.com/ja/bible/3523/JHN.9.13.NRSVUE">[en]</a></dd>
+
+<dt>祈祷</dt>
+<dd></dd>
+
+<dt>讃美歌</dt>
+<dd>357（p.586）<a href="hymn21-357.html">[en]</a></dd></dd>
+
+<dt>使徒信条</dt>
+<dd>93-4-1-A（p.146）<a href="apostles-creed.html">[en]</a></dd>
+
+<dt>説教</dt>
+<dd>「共にいてくださる神を知ろう」 松木田博 牧師</dd>
+
+<dt>讃美歌</dt>
+<dd>463（p.766）<a href="hymn21-463.html">[en]</a></dd></dd>
+
+<dt>聖餐</dt>
+<dd>司式：金明淑 牧師</dd>
+<dd>配餐：富永憲明、西村文、宮川英里也、山田通代、米山真和</dd>
+
+<dt>讃美歌</dt>
+<dd>81（p.116）<a href="hymn21-81.html">[en]</a></dd></dd>
+
+<dt>献金</dt>
+<dd>礼拝当番</dd>
+
+<dt>報告</dt>
+<dd></dd>
+
+<dt>頌栄</dt>
+<dd>29（p.41）<a href="hymn21-029.html">[en]</a></dd></dd>
+
+<dt>祝祷</dt>
+<dd><span translate="no">松木田博牧師</span></dd>
+
+<dt>後奏</dt>
+<dd></dd>
+
+</details>
+
+
+
+<h2>夕礼拝 午後7時</h2>
+
+<p>
+司式：西村文
+奏楽：濱田紘平ー<br>
+聖書 マタイによる福音書22章34～40節（p.44）<br>
+説教「神に愛されていることを知ろう」松木田博牧師<br>
+讃美歌 497, 528, 81, 29
+</p>
+
+<h2>今月の当番</h2>
+<p>
+河本康子、西村文、柴原恵、濱田紘平、深川順子、山田太郎
+</p>
+
+<h2>本日の集会</h2>
+<ul>
+<li>礼拝準備祈祷会 午前10:20</li>
+<li>配餐長老集合 午前10:10（礼拝堂）</li>
+<li>礼拝準備祈祷会 午前10:20（聖餐準備室）</li>
+<li>教会清掃 礼拝後</li>
+<li>婦人会世話人会　清掃後（1階ホール）</li>
+<li>夕礼拝準備祈祷会 午後6:50</li>
+</ul>
+
+<h2>本日の集会</h2>
+<ul>
+<li>書記会 2月28日（土）午前11時（牧師室）</li>
+<li>昼間祈祷会 3月4日（水）午前10時 </li>
+  <ul>
+    <li>聖書：ヨハネの黙示録1章1~3節（新約聖書p.452）</li>
+    <li>讃美歌：494, 580</li>
+    <li>祈祷題：祈祷会のために / 昼間祈祷会では今回からヨハネの黙示録の講解を始めます。お覚えください。</li>
+  </ul>
+</ul>
+<h2>次週主日礼拝（3月8日）</h2>
+
+<details>
+<summary>次週詳細を見る</summary>
+
+朝礼拝 10:30<br>
+司式：長老 重松純<br>
+奏楽：浦川律子<br>
+説教「知らないことを知る」松木田博牧師<br>
+夕礼拝 19:00<br>
+説教「神なる主」松木田博牧師<br>
+
+</details>
+
+<h2>お知らせ</h2>
+
+<div class="notice">
+<ul>
+  <li>２月２２日（日）朝礼拝後、現住陪餐会員４６名（陪席２名）出席のもと、臨時教会総会を開催しました。</li>
+    <ul>
+      <li>長老選挙の結果、６名が選出されました。</li>
+      <li>2026年度監事、西中国教区総会議員、広島西分区全体会議員、教会学校長の選任は、長老会一任として承認されました。</li>
+    </ul>
+  <li>「2026年度礼拝当番のお願い」を配布しています。３月１５日までに１階受付へご提出ください。</li>
+  <li>羽咋白百合幼稚園および羽咋教会への励ましの色紙にご記名をお願いいたします。</li>
+</ul>
+</div>
+
+<h2>個人消息</h2>
+<p>
+なし
+</p>
+
+<h2>集会報告</h2>
+<p>
+主日朝礼拝 53名（配信14アクセス）<br>
+夕礼拝 9名<br>
+教会学校 休止<br>
+臨時教会総会 49名<br>
+祈祷会 第一水曜日以外休止
+</p>
+
+</main>
+
+<script>
+function readAloud() {
+  const text = document.body.innerText;
+  const speech = new SpeechSynthesisUtterance(text);
+  speech.lang = 'ja-JP';
+  speech.rate = 1;
+  window.speechSynthesis.speak(speech);
+}
+</script>
+
+</body>
+</html>
